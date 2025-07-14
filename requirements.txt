@@ -1,0 +1,12 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+yfinance==0.2.36
+pandas==2.2.1
+numpy==1.26.4
+pillow==10.3.0
+torch==2.2.1
+torchvision==0.17.1
+opencv-python==4.9.0.80
+scikit-learn==1.4.2
+
+ 
